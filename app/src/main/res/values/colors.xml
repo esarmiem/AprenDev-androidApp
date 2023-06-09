@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="azul_oscuro">#0E2540</color> <!-- Azul oscuro -->
+    <color name="azul_profundo">#18395B</color> <!-- Azul profundo -->
+    <color name="azul_claro">#5898D2</color> <!-- Azul claro -->
+    <color name="azul_cielo">#65BCDE</color> <!-- Azul cielo -->
+    <color name="gris_claro">#BECBDB</color> <!-- Gris claro -->
 </resources>
