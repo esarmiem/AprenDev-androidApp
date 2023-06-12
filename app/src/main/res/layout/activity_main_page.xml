@@ -4,47 +4,53 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@color/azul_oscuro"
     tools:context=".mainPage">
 
     <TextView
         android:id="@+id/textHola"
-        android:layout_width="115dp"
-        android:layout_height="0dp"
-        android:layout_marginBottom="97dp"
+        android:layout_width="235dp"
+        android:layout_height="64dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginBottom="40dp"
+        android:fontFamily="serif-monospace"
         android:text="Hola"
         android:textAlignment="center"
-        android:textColor="@color/white"
-        android:textSize="36sp"
+        android:textColor="@color/gris_claro"
+        android:textSize="56sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/textCorreo"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imgAndroid" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
     <TextView
         android:id="@+id/textCorreo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="94dp"
+        android:layout_width="405dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="7dp"
+        android:layout_marginEnd="7dp"
+        android:layout_marginBottom="200dp"
+        android:fontFamily="serif-monospace"
         android:text="correo"
         android:textAlignment="center"
-        android:textColor="#fffd"
+        android:textColor="@color/gris_claro"
         android:textSize="32sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textHola" />
 
     <ImageView
-        android:id="@+id/imgAndroid"
-        android:layout_width="251dp"
-        android:layout_height="179dp"
-        android:layout_marginTop="69dp"
-        android:layout_marginBottom="121dp"
-        android:scaleType="fitXY"
+        android:id="@+id/imageView2"
+        android:layout_width="374dp"
+        android:layout_height="247dp"
+        android:layout_marginStart="216dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="31dp"
         app:layout_constraintBottom_toTopOf="@+id/textHola"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_launcher_foreground" />
+        app:srcCompat="@drawable/login" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -6,7 +6,7 @@
     android:gravity="center"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@color/azul_oscuro"
     tools:context=".Registro">
 
     <TextView
@@ -15,36 +15,46 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="98dp"
         android:text="Inicia Sesión"
-        android:textColor="#fffd"
-        android:textSize="28dp" />
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        android:textColor="@color/gris_claro"
+        android:textSize="32sp" />
 
 
     <EditText
         android:id="@+id/usuario"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:ems="10"
+        android:ems="12"
+        android:fontFamily="serif-monospace"
         android:inputType="text"
-        android:textColor="#ffff"
+        android:textStyle="bold"
+        android:textColor="@color/gris_claro"
         android:text="Usuario" />
 
     <EditText
         android:id="@+id/contrasena"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:ems="10"
+        android:ems="12"
         android:inputType="text"
-        android:textColor="#ffff"
+        android:textStyle="bold"
+        android:fontFamily="serif-monospace"
+        android:textColor="@color/gris_claro"
         android:text="Contraseña" />
 
     <Button
         android:id="@+id/btnLogin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="68dp"
-        android:backgroundTint="#ddaf"
-        android:width="160dp"
-        android:textColor="#fffd"
+        android:layout_marginTop="98dp"
+        android:backgroundTint="@color/azul_claro"
+        android:width="200dp"
+        android:height="40dp"
+        android:fontFamily="serif-monospace"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:textColor="@color/gris_claro"
         android:text="Inicia sesion" />
 
 
