@@ -3,10 +3,10 @@
 ![Screenshot_20230612_171301](https://github.com/esarmiem/AprenDev-cesdeApp/assets/114357859/537f71df-0679-415a-8a07-0f45eb5f30a5)
 
 
-*subir proyecto a github*
+*subir proyecto desde android studio a github*
 https://www.youtube.com/watch?v=7nSt0MpwKAw&ab_channel=eddy
 
-*hacer commit y push github*
+*hacer commit y push a github desde android studio*
 https://www.youtube.com/watch?v=k1HQ9e8646A&ab_channel=YoAndroide
 
 *Ruta de aprendizaje desde cero para convertirte en Android Developer*
