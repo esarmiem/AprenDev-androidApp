@@ -30,7 +30,8 @@
         android:inputType="text"
         android:textStyle="bold"
         android:textColor="@color/gris_claro"
-        android:text="Usuario" />
+        android:textColorHint="@color/gris_claro"
+        android:hint="Usuario" />
 
     <EditText
         android:id="@+id/contrasena"
@@ -41,7 +42,8 @@
         android:textStyle="bold"
         android:fontFamily="serif-monospace"
         android:textColor="@color/gris_claro"
-        android:text="Contraseña" />
+        android:textColorHint="@color/gris_claro"
+        android:hint="Contraseña" />
 
     <Button
         android:id="@+id/btnLogin"
