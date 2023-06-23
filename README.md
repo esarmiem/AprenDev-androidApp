@@ -15,4 +15,5 @@ https://developer.android.com/?gclid=CjwKCAjwm4ukBhAuEiwA0zQxk3XFby_Dlvm31fZtjRB
 
 by: elder :) #neverstoplearning
 
-![Screenshot_20230612_171301](https://github.com/esarmiem/AprenDev-cesdeApp/assets/114357859/537f71df-0679-415a-8a07-0f45eb5f30a5)
+![figma](https://github.com/esarmiem/AprenDev-cesdeApp/assets/114357859/6713ce36-bd46-4de0-a58f-e8fabf087b8a)
+
