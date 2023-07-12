@@ -46,8 +46,8 @@ public class Login extends AppCompatActivity {
 
                 String usuario1 = usuario.getText().toString();
                 String contrasena1 = contrasena.getText().toString();
-                String usuarioDB = "pepito@mail.com";
-                String contrasenaDB = "xyz123";
+                String usuarioDB = "esarmiem";
+                String contrasenaDB = "12345";
 
                 iniciarSesion(usuario1,contrasena1, usuarioDB,contrasenaDB);
 

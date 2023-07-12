@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="98dp"
         android:backgroundTint="@color/azul_claro"
-        android:width="200dp"
+        android:width="220dp"
         android:height="40dp"
         android:fontFamily="serif-monospace"
         android:textStyle="bold"
